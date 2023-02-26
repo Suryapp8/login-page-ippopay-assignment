@@ -41,3 +41,8 @@
 	cursor:pointer;
 	margin-left: auto;
 }
+
+.link-login{
+    text-decoration: none;
+    text-transform:uppercase;
+}
