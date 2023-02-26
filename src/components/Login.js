@@ -58,7 +58,7 @@ export default function Login() {
 
       <br />
       <p>OR</p>
-      <Link to="/signup">Sign Up page</Link>
+      <Link className="link-login" to="/signup">Sign-Up page</Link>
     </div>
   );
 }
